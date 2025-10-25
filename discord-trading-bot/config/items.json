@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Health Potion",
+      "category": "Consumables",
+      "subcategory": "Potions",
+      "rarity": "Common",
+      "description": "Restores health",
+      "icon_url": ""
+    },
+    {
+      "id": 2,
+      "name": "Mana Potion",
+      "category": "Consumables",
+      "subcategory": "Potions",
+      "rarity": "Common",
+      "description": "Restores mana",
+      "icon_url": ""
+    },
+    {
+      "id": 3,
+      "name": "Sword of Fire",
+      "category": "Weapons",
+      "subcategory": "Swords",
+      "rarity": "Epic",
+      "description": "A legendary flaming sword",
+      "icon_url": ""
+    },
+    {
+      "id": 4,
+      "name": "Wooden Shield",
+      "category": "Armor",
+      "subcategory": "Shields",
+      "rarity": "Common",
+      "description": "Basic wooden shield",
+      "icon_url": ""
+    },
+    {
+      "id": 5,
+      "name": "Iron Ore",
+      "category": "Materials",
+      "subcategory": "Ores",
+      "rarity": "Common",
+      "description": "Used for crafting",
+      "icon_url": ""
+    }
+  ],
+  "categories": [
+    {
+      "name": "Weapons",
+      "subcategories": ["Swords", "Axes", "Bows", "Staves", "Daggers"]
+    },
+    {
+      "name": "Armor",
+      "subcategories": ["Helmets", "Chest Plates", "Gloves", "Boots", "Shields"]
+    },
+    {
+      "name": "Consumables",
+      "subcategories": ["Potions", "Food", "Scrolls", "Elixirs"]
+    },
+    {
+      "name": "Materials",
+      "subcategories": ["Ores", "Wood", "Leather", "Gems", "Herbs"]
+    },
+    {
+      "name": "Quest Items",
+      "subcategories": ["Keys", "Artifacts", "Documents"]
+    }
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon", 
+    "Rare",
+    "Epic",
+    "Legendary",
+    "Mythic"
+  ]
+}
